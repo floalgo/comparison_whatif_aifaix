@@ -1,0 +1,8 @@
+torch
+tensorflow==1.14.0
+pandas
+numpy
+aif360
+aix360
+witwidget
+numba
