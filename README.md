@@ -22,5 +22,5 @@ AIF360/AIX360
 * https://nbviewer.jupyter.org/github/IBM/AIX360/blob/master/examples/tutorials/HELOC.ipynb#c2
 * https://nbviewer.jupyter.org/github/IBM/AIF360/blob/master/examples/tutorial_credit_scoring.ipynb
 
-**Note:** This is an experimental setup and we collected these informations to the best of our knowledge. However, we cannot guarantee the accuracy, completeness and topicality of the contents. 
+**Note:** This is a own designed p and we collected these informations to the best of our knowledge. However, we cannot guarantee the accuracy, completeness and topicality of the contents. 
 
